@@ -1,0 +1,56 @@
+Uri: https://kaleizurosa.com/comments/feed/
+File Name: C:\Downloaded Web Sites\kaleizurosa.com\comments\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://kaleizurosa.com/feed/
+File Name: C:\Downloaded Web Sites\kaleizurosa.com\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://kaleizurosa.com/l7_pg_vendas/
+File Name: C:\Downloaded Web Sites\kaleizurosa.com\l7_pg_vendas\index.htm
+Content Type: text/html
+
+Uri: https://kaleizurosa.com/wp-content/litespeed/css/5297be93b456e0d36a81ca9abb751228.css?ver=b5658
+File Name: C:\Downloaded Web Sites\kaleizurosa.com\wp-content\litespeed\css\5297be93b456e0d36a81ca9abb751228.css
+Content Type: text/css
+
+Uri: https://kaleizurosa.com/wp-content/litespeed/js/4604238f399585094057adc30f15fea0.js?ver=b5658
+File Name: C:\Downloaded Web Sites\kaleizurosa.com\wp-content\litespeed\js\4604238f399585094057adc30f15fea0.js
+Content Type: application/javascript
+
+Uri: https://kaleizurosa.com/wp-content/uploads/2025/02/cropped-kaleizuicon-1-180x180.webp
+File Name: C:\Downloaded Web Sites\kaleizurosa.com\wp-content\uploads\2025\02\cropped-kaleizuicon-1-180x180-1.webp
+Content Type: image/webp
+
+Uri: https://kaleizurosa.com/wp-content/uploads/2025/02/cropped-kaleizuicon-1-192x192.webp
+File Name: C:\Downloaded Web Sites\kaleizurosa.com\wp-content\uploads\2025\02\cropped-kaleizuicon-1-192x192-1.webp
+Content Type: image/webp
+
+Uri: https://kaleizurosa.com/wp-content/uploads/2025/02/cropped-kaleizuicon-1-32x32.webp
+File Name: C:\Downloaded Web Sites\kaleizurosa.com\wp-content\uploads\2025\02\cropped-kaleizuicon-1-32x32-1.webp
+Content Type: image/webp
+
+Uri: https://kaleizurosa.com/wp-includes/js/jquery/jquery.min.js
+File Name: C:\Downloaded Web Sites\kaleizurosa.com\wp-includes\js\jquery\jquery.min-1.js
+Content Type: application/javascript
+
+Uri: https://kaleizurosa.com/wp-json/
+File Name: C:\Downloaded Web Sites\kaleizurosa.com\wp-json\index-1.htm
+Content Type: application/json
+
+Uri: https://kaleizurosa.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkaleizurosa.com%2Fl7_pg_vendas%2F
+File Name: C:\Downloaded Web Sites\kaleizurosa.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://kaleizurosa.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkaleizurosa.com%2Fl7_pg_vendas%2F&format=xml
+File Name: C:\Downloaded Web Sites\kaleizurosa.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://kaleizurosa.com/wp-json/wp/v2/pages/2432
+File Name: C:\Downloaded Web Sites\kaleizurosa.com\wp-json\wp\v2\pages\2432
+Content Type: application/json
+
+Uri: https://kaleizurosa.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\kaleizurosa.com\xmlrpc-1.php
+Content Type: text/xml
+
